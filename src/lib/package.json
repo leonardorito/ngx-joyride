@@ -1,13 +1,13 @@
 {
     "name": "ngx-joyride-custom",
-    "version": "2.2.10",
+    "version": "2.2.11",
     "description": "Angular Joyride/Tour Library",
     "main": "./bundles/ngx-joyride.umd.js",
     "jsnext:main": "./esm5/ngx-joyride.esm.js",
     "module": "./esm5/ngx-joyride.esm.js",
     "es2015": "./esm2015/ngx-joyride.esm2015.js",
     "typings": "./joyride.d.ts",
-    "author": "Nicola Tommasi",
+    "author": "Leonardo Suarez",
     "repository": {
         "type": "git",
         "url": "https://github.com/leonardorito/ngx-joyride"
