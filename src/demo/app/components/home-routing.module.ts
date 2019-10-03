@@ -21,13 +21,13 @@ import { NgModule, Component } from "@angular/core";
                 Route A
                 </div>
                 <ng-template #prev>
-                    <button>Previous</button>
+                    <button>Anterior</button>
                 </ng-template>
                 <ng-template #next>
-                    <button>Next</button>
+                    <button>Siguiente</button>
                 </ng-template>
                 <ng-template #done>
-                    <button>Done</button>
+                    <button>Entendido</button>
                 </ng-template>
                 <ng-template #counter let-step="step" let-total="total">
                      {{ step }} of {{ total }} steps

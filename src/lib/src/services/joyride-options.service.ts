@@ -13,9 +13,9 @@ export class ObservableCustomTexts implements ICustomTexts {
     close: Observable<string>;
 }
 export const DEFAULT_TEXTS: ObservableCustomTexts = {
-    prev: of('prev'),
-    next: of('next'),
-    done: of('done'),
+    prev: of('Anterior'),
+    next: of('Siguiente'),
+    done: of('Entendido'),
     close: of(null)
 };
 

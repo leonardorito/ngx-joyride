@@ -63,7 +63,7 @@ export class HomeComponent implements AfterViewInit, OnInit {
             // startWith: 'step3@app',
             // waitingTime: 3000,
             stepDefaultPosition: 'top',
-            themeColor: '#345632',
+            themeColor: '#64BFFF',
             showPrevButton: true,
             logsEnabled: true,
             //customTexts: { prev: of('<<').pipe(delay(2000)), next: '>>'}

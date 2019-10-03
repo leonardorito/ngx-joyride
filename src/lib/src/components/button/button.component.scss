@@ -2,15 +2,10 @@
     text-transform: uppercase;
     border: 2px solid transparent;
     outline: none;
-    padding: 6px 12px;
+    padding: 0 12px;
     font-size: 12px;
     font-weight: bold;
     color: white;
-    background-color: #3b5560;
+    background-color: transparent;
     cursor: pointer;
-    &:hover {
-        color: #3b5560;
-        border: 2px solid #3b5560;
-        background-color: white;
-    }
 }

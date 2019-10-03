@@ -7,8 +7,8 @@ import { TranslateService } from '@ngx-translate/core';
     selector: 'demo-app',
     template: `
         <nav class="toolbar"><a routerLink="">Home</a> <a routerLink="/about/you">About</a> <a routerLink="/info">Info</a></nav>
-        <div joyrideStep="firstStep" title="demoTour" text="Hi, Welcome to demo tour">phone</div>
-        <div><joyrideStep joyrideStep="ciao" [title]="'TITLE' | translate">ehila</joyrideStep></div>
+        <div joyrideStep="firstStep" text="Hi, Welcome to demo tour" stepPosition="right">phone</div>
+        <div><joyrideStep joyrideStep="ciao">ehila</joyrideStep></div>
         <div>
             <p>Paragraph 1</p>
             <p>Paragraph 2</p>

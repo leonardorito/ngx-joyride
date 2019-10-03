@@ -1,5 +1,5 @@
 {
-    "name": "ngx-joyride",
+    "name": "ngx-joyride-custom",
     "version": "2.2.10",
     "description": "Angular Joyride/Tour Library",
     "main": "./bundles/ngx-joyride.umd.js",
@@ -10,7 +10,7 @@
     "author": "Nicola Tommasi",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tnicola/ngx-joyride"
+        "url": "https://github.com/leonardorito/ngx-joyride"
     },
     "license": "MIT",
     "keywords": [
